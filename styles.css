@@ -1,0 +1,38 @@
+/* add your CSS here */
+body {
+  font-family: sans-serif;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+img {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+ul, li {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.card {
+  width: 300px;
+  box-shadow: 10px 10px 45px -5px rgba(0,0,0,0.75);
+  margin: 10px;
+  padding: 10px;
+}
+
+.facts {
+  font-style: italic;
+}
+
+.details {
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  padding: 10px;
+}
+
+.title {
+  font-weight: bold;
+}
