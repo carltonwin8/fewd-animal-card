@@ -9,4 +9,5 @@ The main files are:
  * [html](card.html)
  * [css](styles.css)
 
-I tried to use gulp but am not sure I was successful.
+The final results can be see
+[here](https://carltonwin8.github.io/fewd-animal-card/).
